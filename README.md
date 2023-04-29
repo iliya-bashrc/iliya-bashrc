@@ -14,8 +14,3 @@
     <p>
     <a href="https://t.me/LearnExploit_Group"> <img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg" />
     </p>
-
-<p>
-<img src="https://img.shields.io/github/followers/{iliya-bashrc}.svg?style=social&label=Follow&maxAge=2592000/>
-
-</p>
