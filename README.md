@@ -10,6 +10,6 @@
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
     </br>
-        <a https://t.me/LearnExploit_Group" align="center" <img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg" />
+        <a https://t.me/LearnExploit_Group"> align="center" <img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg" />
     </a>
 
