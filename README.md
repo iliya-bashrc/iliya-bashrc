@@ -11,6 +11,6 @@
     </a>
     </br>
     <p>
-    <a href="test.org"> <img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg" />
+    <a href="https://t.me/LearnExploit_Group"> <img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg" />
     </p>
 
