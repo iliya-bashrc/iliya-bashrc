@@ -1,7 +1,7 @@
 <div align="center">
     <img width="200" weight="200" src="https://media.giphy.com/media/4oVVi38n85tMWNighE/giphy.gif">
 </div>
-<h3> LearnExploit Channel </h3>
+<h3 align="center" > LearnExploit Channel </h3>
 <div id="badges" align="center">
     <a href="https://t.me/LearnExploit">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
