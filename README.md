@@ -5,12 +5,9 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&width=435&lines=iliya(h.r)" alt="Typing SVG" /></a>
    </div> 
-<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&width=435&lines=Our+Channels" alt="Typing SVG" /></a></h3>
+<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&width=435&lines=LearnExploit+Channel" alt="Typing SVG" /></a></h3>
 <div id="badges" align="center">
     <a href="https://t.me/LearnExploit">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-    <a href="https://t.me/Tech_Army" align="center">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
     </br>
