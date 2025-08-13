@@ -13,5 +13,5 @@
     </br>
     <h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&width=435&lines=exploitforge+Group" alt="Typing SVG" /></a></h3>
     <p>
-    <a href="https://t.me/Exploit_Forge_group"> <img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg" />
+    <a href="https://t.me/ExploitForge_group"> <img src="https://github.com/Patrolavia/telegram-badge/blob/master/chat.svg" />
     </p>
