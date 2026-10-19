@@ -1,158 +1,84 @@
 <div align="center">
 
-# `iliya(h.r)`
-
-### `Web Security • Penetration Testing • Vulnerability Research`
-
-[![GitHub](https://img.shields.io/badge/GitHub-iliya--bashrc-181717?style=flat-square\&logo=github)](https://github.com/iliya-bashrc)
-[![Telegram](https://img.shields.io/badge/Telegram-RootAccessClub-26A5E4?style=flat-square\&logo=telegram)](https://t.me/RootAccessClub)
-
-</div>
-
----
-
-```text
-$ whoami
-
-iliya(h.r)
-
-Security-focused developer with a strong focus on
-Web Application Security, penetration testing,
-vulnerability research and offensive security.
-
-I like understanding how systems work —
-then finding where they break.
-```
-
-## `01 / ABOUT`
-
-I'm a security-focused developer working primarily around **web security**.
-
-My experience and interests cover web application testing, vulnerability discovery, penetration testing, exploitation research, and understanding how web applications behave under attack.
-
-I also work with **Linux** extensively and have experience building interfaces and web projects on the frontend side.
-
-```text
-┌──────────────────────────────────────────────┐
-│              AREAS OF INTEREST               │
-├──────────────────────────────────────────────┤
-│                                              │
-│  Web Application Security                    │
-│  Penetration Testing                         │
-│  Vulnerability Research                      │
-│  Offensive Security                          │
-│  Bug Bounty                                  │
-│  Linux                                       │
-│  Frontend Development                        │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-## `02 / WHAT I DO`
-
-```text
-Web Security
-├── Web Application Testing
-├── Vulnerability Discovery
-├── Security Assessment
-├── Exploitation Research
-└── Attack Surface Analysis
-
-Security Research
-├── CVE Research
-├── Vulnerability Intelligence
-├── Security Tooling
-└── Automation
-
-Development
-├── Frontend Development
-├── Security-focused Projects
-└── Linux-based Development
-```
-
-## `03 / FEATURED PROJECT`
-
-### [`SubZer0`](https://github.com/iliya-bashrc/SubZer0)
-
-> **CVE Intelligence & Vulnerability Research**
-
-SubZer0 is my first serious project — built around making vulnerability intelligence easier to discover, track and explore.
-
-The goal is simple:
-
-**Less searching. More intelligence.**
-
-```text
-CVE
- │
- ├── Discover
- ├── Track
- ├── Analyze
- └── Explore
-        │
-        ▼
-     SubZer0
-```
-
-[![SubZer0](https://img.shields.io/badge/PROJECT-SubZer0-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/iliya-bashrc/SubZer0)
-
----
-
-## `04 / STACK`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,html,css,js&theme=dark" />
-
-</div>
+<img src="assets/hero.svg" alt="iliya(h.r) — web security · penetration testing · vulnerability research" width="100%">
 
 <br>
 
-```text
-PRIMARY
-  Web Security        ████████████████████
-  Linux               ███████████████████░
-  Security Research   ██████████████████░░
-
-WORKING WITH
-  Python              ████████████████░░░░
-  Bash                ███████████████░░░░░
-  Frontend            ███████████████░░░░░
-  Git / GitHub         █████████████████░░░
-```
-
-## `05 / CURRENTLY`
-
-```text
-[+] Building SubZer0
-[+] Researching vulnerabilities
-[+] Exploring web application security
-[+] Working with Linux
-[+] Building security-focused tools
-```
-
-## `06 / COMMUNITY`
-
-I also run **RootAccessClub**, a Telegram channel focused on cybersecurity, security research, tools and related topics.
-
-<div align="center">
-
-[![RootAccessClub](https://img.shields.io/badge/Telegram-RootAccessClub-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/RootAccessClub)
+[![Telegram](https://img.shields.io/badge/RootAccessClub-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f14)](https://t.me/RootAccessClub)
+[![BugCod3](https://img.shields.io/badge/BugCod3-2dd4bf?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0f14)](https://t.me/BugCod3)
+[![SubZer0](https://img.shields.io/badge/SubZer0-live-7dd3fc?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b0f14)](https://iliya-bashrc.github.io/SubZer0/)
 
 </div>
 
----
+```console
+root@bashrc:~# cat about.txt
+Security-focused developer. Web application security, pentesting,
+vulnerability research and offensive security.
 
-<div align="center">
-
-```text
-"Understand the system.
- Understand the weakness.
- Build something better."
+I like understanding how systems work — then finding where they break.
 ```
 
-### `iliya(h.r)`
+### `> focus`
 
-`Web Security • Research • Linux • Development`
+<table>
+<tr>
+<td width="33%" valign="top">
 
-</div>
+**🕸️ Web AppSec**<br>
+<sub>application testing · vulnerability discovery · attack-surface analysis · bug bounty</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🔬 Research**<br>
+<sub>CVE research · exploitation research · vulnerability intelligence</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🛠️ Build**<br>
+<sub>security tooling · automation · frontend · Linux everything</sub>
+
+</td>
+</tr>
+</table>
+
+### `> featured`
+
+<a href="https://github.com/iliya-bashrc/SubZer0">
+  <img src="assets/subzer0.svg" alt="SubZer0 — a live CVE radar that tells you what to patch first" width="100%">
+</a>
+
+<p align="center">
+  <a href="https://iliya-bashrc.github.io/SubZer0/"><b>Open the radar</b></a> ·
+  <a href="https://github.com/iliya-bashrc/SubZer0"><b>Source</b></a>
+</p>
+
+### `> toolbox`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,githubactions&theme=dark" alt="Linux, Bash, Python, JavaScript, HTML, CSS, Git, GitHub, GitHub Actions">
+</p>
+
+### `> now`
+
+```diff
++ shipping SubZer0 — new intel sources, sharper prioritisation
++ hunting bugs in web applications
++ writing security tools & automation
++ running RootAccessClub on Telegram
+```
+
+### `> community`
+
+<p align="center">
+  <a href="https://t.me/RootAccessClub"><img src="assets/channel-rootaccessclub.svg" alt="Join @RootAccessClub on Telegram" width="48%"></a>
+  &nbsp;
+  <a href="https://t.me/BugCod3"><img src="assets/channel-bugcod3.svg" alt="Join @BugCod3 on Telegram" width="48%"></a>
+</p>
+
+<p align="center"><sub>Cybersecurity, research, tools — and the occasional rant.</sub></p>
+
+<br>
+
+<img src="assets/outro.svg" alt="Understand the system. Understand the weakness. Build something better." width="100%">
